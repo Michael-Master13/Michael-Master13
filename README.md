@@ -18,6 +18,6 @@ React · Vite · Node.js · Express · Docker · Docker Compose · Linux · Clou
 
 ## Get in touch
 
-- Site: [leonem.dev](https://leonem.dev)
+- Site: [leonem.dev](https://leonem.dev/about)
 - LinkedIn: https://www.linkedin.com/in/michael-c-leone/
 - Email: contact@leonem.dev
